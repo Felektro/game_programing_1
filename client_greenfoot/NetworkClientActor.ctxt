@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=NetworkClientActor
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ NetworkClientActor\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=
+comment1.target=NetworkClientActor()
+comment2.params=
+comment2.target=void\ act()
+comment3.params=s\ msg
+comment3.target=void\ sendToServer(java.net.Socket,\ java.lang.String)
+comment4.params=s
+comment4.target=java.lang.String\ receiveFromServer(java.net.Socket)
+comment5.params=s
+comment5.target=void\ reconnectToServer(java.net.Socket)
+numComments=6
